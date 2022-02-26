@@ -1,0 +1,21 @@
+n=int(input())
+l[]
+t=[]
+for i in range(n):
+    x=int(input())
+    l.append(x)
+count=0    
+for i in range(n):
+    if l[i]!=0:
+       t.append(l[i])
+count=count+1
+print(t)
+OUTPUT
+5
+8
+0
+7
+0
+6
+[8,7,6]
+3
